@@ -1,0 +1,18 @@
+{
+    "name": "emoji",
+    "description": null,
+    "keywords": ["emoji"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "08ff731b-1be3-4801-90fb-e239ff0e0eec"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": null,
+    "repository": "https://github.com/q-e-p/emoji",
+    "stack": "container"
+}
