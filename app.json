@@ -1,7 +1,7 @@
 {
     "name": "emoji",
     "description": null,
-    "keywords": ["emoji"],
+    "keywords": ["human_rights"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -13,6 +13,6 @@
         }
     },
     "website": null,
-    "repository": "https://github.com/q-e-p/emoji",
+    "repository": "https://github.com/eqpoqpe/human_rights",
     "stack": "container"
 }
