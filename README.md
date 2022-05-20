@@ -1,1 +1,1 @@
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/eqpoqpe/emp)
+> [Deploy](https://dashboard.heroku.com/new?template=https://github.com/eqpoqpe/emp)
